@@ -1,13 +1,15 @@
 # Cope-Copy
 The process of copying the files or folders from different locations into one particular location at a time is tedious when there is a need for copying many files from many folders.This project makes this task plain and easy by accessing the clipboard contents through shell script and using the linux commands to copy the files
 
-Goals 
+Goals:
 
 ● The main goal of this project is minimising the tiredness involved in copying the files at different locations each and every time and pasting into the target folder.
 
 ● The goal is to run the shell script in the terminal and proceeding normally by copying the files either through pressing (CTRL +C) or using Graphical User Interface (GUI) and the executing script will copy the files/folders. 
 
 ● Ultimately, there is an option to compress the target folder which can be further used for mailing all the copied files easily. 
+
+
 
 Specifications
 
